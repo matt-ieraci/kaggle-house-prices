@@ -39,10 +39,16 @@ run `pip install -r requirements.txt` in your terminal.
     - `src/trainer/trainer.py`: Script for training the model, including model selection and evaluation.
 
 ## Model
-TBD..
+StackingRegressor
+-GradientBoostingRegressor
+-Ridge
+-SVR
+-AdaBoostRegressor
+-LinearRegression
 
 ## Results
-TBD..
+Score: 0.12459
+Rank: 500/3891
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
