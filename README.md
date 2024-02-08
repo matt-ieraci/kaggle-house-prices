@@ -39,15 +39,15 @@ run `pip install -r requirements.txt` in your terminal.
     - `src/trainer/trainer.py`: Script for training the model, including model selection and evaluation.
 
 ## Model
-StackingRegressor
--GradientBoostingRegressor
--Ridge
--SVR
--AdaBoostRegressor
--LinearRegression
+StackingRegressor:  
+-GradientBoostingRegressor  
+-Ridge  
+-SVR  
+-AdaBoostRegressor  
+-LinearRegression  
 
 ## Results
-Score: 0.12459
+Score: 0.12459  
 Rank: 500/3891
 
 ## Contributing
