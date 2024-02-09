@@ -8,11 +8,15 @@ The dataset includes 79 explanatory variables describing (almost) every aspect o
 
 ## Installation
 To run this project, you'll need Python 3 and the following libraries:
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scipy
+- tempfile
+- shutil
+- xgboost
+- sklearn
 
 You can install these packages using pip:
 run `pip install -r requirements.txt` in your terminal.
